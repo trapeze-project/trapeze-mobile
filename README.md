@@ -1,7 +1,7 @@
 # TRAPEZE Mobile Application
 Contributors: K. Pelz, P.Pathak, I.Lehrer, N.Shawarba, T.Eichinger, P.Raschke
 
-![Screenshots](https://github.com/trapeze-project/trapeze-mobile.git/blob/main/screenshots/put-all-screenshots-together.png?raw=true)
+![Screenshots](https://github.com/trapeze-project/trapeze-mobile/blob/master/screenshots/put-all-screenshots-together.png?raw=true)
 
 This is the code repository for the TRAPEZE Mobile Application for Android phones. 
 The TRAPEZE Mobile Application is built on the basis of the [Flutter UI Framework](https://flutter.dev) developed by Google.
