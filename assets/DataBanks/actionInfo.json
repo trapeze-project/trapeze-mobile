@@ -1,0 +1,66 @@
+{
+  "ThreatResolutionAction.antivirus": {
+    "priority": 2,
+    "description": "Install an Anti-Virus app, e.g. TotalAV Antivirus & VPN for Android devices (https://play.google.com/store/apps/details?id=com.totalav.android)."
+  },
+  "ThreatResolutionAction.backupData": {
+    "priority": 2,
+    "description": "Make periodic backups of your files."
+  },
+  "ThreatResolutionAction.vpn": {
+    "priority": 2,
+    "description": "Use a VPN program."
+  },
+  "ThreatResolutionAction.thirdpartyDownload": {
+    "priority": 2,
+    "description": "Do not download software from unknown sources. Only download apps that are downloaded from the Play Store (Android) or AppStore (iOS)."
+  },
+  "ThreatResolutionAction.securitySoftware": {
+    "priority": 2,
+    "description": "Install cyber security software such as e.g. Kaspersky Security & VPN for Android devices (https://play.google.com/store/apps/details?id=com.kms.free)."
+  },
+  "ThreatResolutionAction.updatePermission": {
+    "priority": 2,
+    "description": "Update your app permissions. It is recommendable to deactivate all permissions from time to time and re-activate only those that are necessary."
+  },
+  "ThreatResolutionAction.avoidUnsecureWifi": {
+    "priority": 2,
+    "description": "Connecting to open WiFi networks such as at a café or an airport, these networks may or may not be secured. The WiFi host and even other users may observe your online behavior.\nIt is recommendable to only use unsecured WiFi networks if it is either absolutely necessary or you trust both the WiFi host and all participants in the network ."
+  },
+  "ThreatResolutionAction.updatePhoneVersion": {
+    "priority": 2,
+    "description": "Update your phone's operating system. A major component of software updates are security updates."
+  },
+  "ThreatResolutionAction.randomPassword": {
+    "priority": 2,
+    "description": "Use randomized passwords. In particular, do not use passwords that contain parts of your name, birthdate, or simple sequences like 'abc' or '123'."
+  },
+  "ThreatResolutionAction.avoidLinks": {
+    "priority": 2,
+    "description": "Avoid clicking on links or buttons to navigate. Make sure that you know and trust the source that provides you the link or button that you click."
+  },
+  "ThreatResolutionAction.uninstallApps": {
+    "priority": 2,
+    "description": "Uninstall apps that you seldom use. In the settings of your phone, you can browse how often and how long you use an app."
+  },
+  "ThreatResolutionAction.googlePlayProtect": {
+    "priority": 2,
+    "description": "Do not deactivate GooglePlayProtect on Android phones. GooglePlayProtect is a software that scans apps and identifies malicious behavior.\nIt is by default activated in the Play Store app on Android devices."
+  },
+  "ThreatResolutionAction.savedPassword": {
+    "priority": 2,
+    "description": "savedPassword i really dont know what to do"
+  },
+  "ThreatResolutionAction.factoryReset": {
+    "priority": 2,
+    "description": "Perform a factory reset on your device. Do not forget to backup your data before the factory reset, especially your photos and video files."
+  },
+  "ThreatResolutionAction.clearStorage": {
+    "priority": 2,
+    "description": "Clear your storage periodically. This includes browser cookies and the device cache."
+  },
+  "ThreatResolutionAction.unknown": {
+    "priority": 4,
+    "description": "Turn off WiFi and remove your SIM card. Then find help online and/or at a local phone store to resolve the unknown threat. Re-scan your device after you have performed a resolution action."
+  }
+}

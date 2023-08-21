@@ -1,0 +1,20 @@
+[
+  {
+    "@context": {
+      "@vocab": "https:\/\/trapeze-project.eu\/ns\/threat-info#",
+      "@language": "en"
+    },
+    "category": "Unknown",
+    "description": "Unknown malicious code. The code is typically too new or too rare to be properly categorized as Adware, Spyware, password extraction software, or remote admin software.",
+    "actions": [
+      {
+        "priority": "4",
+        "description": "Turn off WiFi and remove your SIM card. Then find help online and\/or at a local phone store to resolve the unknown threat. Re-scan your device after you have performed a resolution action."
+      },
+      {
+        "priority": "2",
+        "description": "Install an Anti-Virus app, e.g. TotalAV Antivirus & VPN for Android devices (https:\/\/play.google.com\/store\/apps\/details?id=com.totalav.android)."
+      }
+    ]
+  }
+]

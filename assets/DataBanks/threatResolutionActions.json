@@ -1,0 +1,54 @@
+{
+    "VerdictCategory.Adware": [
+        "ThreatResolutionAction.antivirus",
+        "ThreatResolutionActions.thirdpartyDownload",
+        "ThreatResolutionAction.uninstallApps",
+        "ThreatResolutionAction.googlePlayProtect"
+    ],
+    "VerdictCategory.DestructiveMalware": [
+        "ThreatResolutionAction.thirdpartyDownload",
+        "ThreatResolutionAction.securitySoftware",
+        "ThreatResolutionAction.updatePermission",
+        "ThreatResolutionAction.antivirus",
+        "ThreatResolutionAction.avoidUnsecureWifi",
+        "ThreatResolutionAction.avoidLinks",
+        "ThreatResolutionAction.uninstallApps",
+        "ThreatResolutionAction.googlePlayProtect",
+        "ThreatResolutionAction.savedPassword",
+        "ThreatResolutionAction.factoryReset",
+        "ThreatResolutionAction.clearStorage"
+    ],
+    "VerdictCategory.Monitor": [
+        "ThreatResolutionAction.thirdpartyDownload",
+        "ThreatResolutionAction.securitySoftware",
+        "ThreatResolutionAction.updatePermission",
+        "ThreatResolutionAction.antivirus",
+        "ThreatResolutionAction.avoidUnsecureWifi",
+        "ThreatResolutionAction.avoidLinks",
+        "ThreatResolutionAction.uninstallApps",
+        "ThreatResolutionAction.googlePlayProtect",
+        "ThreatResolutionAction.savedPassword",
+        "ThreatResolutionAction.factoryReset"
+    ],
+    "VerdictCategory.PswTool":[
+        "ThreatResolutionAction.updatePermission",
+        "ThreatResolutionAction.antivirus",
+        "ThreatResolutionAction.securitySoftware",
+        "ThreatResolutionAction.updatePhoneVersion",
+        "ThreatResolutionAction.avoidLinks",
+        "ThreatResolutionAction.savedPassword",
+        "ThreatResolutionAction.randomPassword"
+    ],
+    "VerdictCategory.RemoteAdmin": [
+        "ThreatResolutionAction.avoidUnsecureWifi",
+        "ThreatResolutionAction.randomPassword",
+        "ThreatResolutionAction.updatePermission",
+        "ThreatResolutionAction.uninstallApps",
+        "ThreatResolutionAction.avoidLinks",
+        "ThreatResolutionAction.factoryReset"
+    ],
+    "VerdictCategory.Unknown": [
+        "ThreatResolutionAction.unknown",
+        "ThreatResolutionAction.antivirus"
+    ]
+}

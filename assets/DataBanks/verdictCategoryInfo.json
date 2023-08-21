@@ -1,0 +1,20 @@
+{
+  "VerdictCategory.Adware": {
+    "description": "Adware (advertisement software) is software that shows advertisement to a user. Advertisement is typically shown to generate revenue and is therefore often part of a software's business model. Some adware track user behavior to show personalized advertisement. Advertisement is presented to the user in boxes, banners, videos, pop-ups ad or even entire screens.\nAdware sometimes installs itself without the knowledge of the user."
+  },
+  "VerdictCategory.DestructiveMalware": {
+    "description": "Malware (malicious software) is software that is intentionally designed to cause harm to a user. This harm includes system disruption, unauthorized system access, and information leakage. Software that causes such harm unintentionally is deficient and not considered malware.\nSpyware, ransomware, viruses, worms, rootkits, wiper, and scareware are examples of malware."
+  },
+  "VerdictCategory.Monitor": {
+    "description": "Spyware, spying software, is software that extracts user information without the knowledge of the user. Spyware violates user privacy and/or security if information is extracted without the knowledge of the user.\nWeb trackers are a common example of spyware."
+  },
+  "VerdictCategory.PswTool": {
+    "description": "Password extraction software is software that extracts user passwords. Password extraction software violates user privacy and/or security if passwords are extracted without the knowledge of the user.\nKeystroke logging is a common example of password extraction software."
+  },
+  "VerdictCategory.RemoteAdmin": {
+    "description": "Remote admin software is software that establishes administrator access from another device. The other device is typically located in physical distance to the accessed device.\nAdministrator access yields unlimited rights to install or un-install programs, read and write files, and alter the system configuration on the accessed device. Remote admin software violates user privacy and/or security if remote access is established without the knowledge of the user. "
+  },
+  "VerdictCategory.Unknown": {
+    "description": "Unknown malicious code. The code is typically too new or too rare to be properly categorized as Adware, Spyware, password extraction software, or remote admin software."
+  }
+}
