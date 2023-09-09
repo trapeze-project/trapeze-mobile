@@ -134,6 +134,18 @@ where you can choose between 'debug' and 'release' modes.
 The compiled .apk files can be found here: `./build/app/outputs/flutter-apk/app-<debug|release>.apk`.
 
 
+## 4. Test the Malware Scanner
+
+The TRAPEZE mobile application's malware scanning functionality can be tested on the following test viruses:
+
+| Test Virus Provider | Download Page                                                                                                  | Remarks                                  |
+| ------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | 
+| AMTSO               | [download-page](https://www.amtso.org/feature-settings-check-download-of-malware-for-android-based-solutions/) | industry standard                        |
+| EICAR               | [download-page](https://www.eicar.org/download-anti-malware-testfile/)                                         |                                          |
+| IKARUS              | [download-page](https://play.google.com/store/apps/details?id=com.ikarus.ikarustestvirus&hl=gsw&l=US)                                                           |                                          |
+
+
+
 ## Contact
 
 Please do not hesitate to direct your questions to tobias.eichinger (AT) tu-berlin.de and philip.raschke (AT) tu-berlin.de.
